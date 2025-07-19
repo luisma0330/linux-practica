@@ -1,0 +1,16 @@
+total 56
+-rwxr-xr-x 1 root root 229 Jul 10 05:49 helloworld.sh
+-rw-r--r-- 1 root root 118 Jul 10 05:49 hola.txt
+-rwxr-xr-x 1 root root 149 Jul 10 05:58 output.sh
+-rwxr-xr-x 1 root root  78 Jul 10 06:08 read.sh
+-rwxr-xr-x 1 root root 718 Jul 13 06:14 conditionals.sh
+-rw-r--r-- 1 root root 281 Jul 13 06:23 errores.sh
+-rwxr-xr-x 1 root root 170 Jul 13 06:50 operadores.sh
+-rwxr-xr-x 1 root root 330 Jul 13 08:26 case.sh
+-rwxr-xr-x 1 root root 331 Jul 14 09:34 loops.sh
+-rwxr-xr-x 1 root root 121 Jul 16 20:08 break-continue.sh
+-rwxr-xr-x 1 root root 247 Jul 16 20:23 arguments.sh
+-rwxr-xr-x 1 root root 133 Jul 19 08:10 stdin.sh
+-rw-r--r-- 1 root root  49 Jul 19 08:17 errors.txt
+-rwxr-xr-x 1 root root 153 Jul 19 08:23 stderr_stdout.sh
+-rw-r--r-- 1 root root   0 Jul 19 08:23 file.txt

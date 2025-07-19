@@ -1,0 +1,1 @@
+./stderr_stdout.sh: line 7: t: command not found
